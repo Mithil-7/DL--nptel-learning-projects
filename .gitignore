@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training outputs (generated at runtime)
+*.pth
+*.png
+data/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
